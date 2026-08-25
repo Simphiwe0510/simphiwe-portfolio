@@ -1,0 +1,19 @@
+SIMPHIWE SETHOLE — OFFLINE PORTFOLIO
+
+1. Extract the ZIP file on your laptop.
+2. Open the extracted folder.
+3. Double-click index.html.
+4. The portfolio will open in Chrome, Edge, Firefox, or your default browser.
+
+No installation, coding program, npm command, or internet hosting is required.
+
+Keep all folders and files together. Do not move index.html by itself because
+the profile photo, CV, Jira image, Excel project, and UJ Compass prototype use
+the included folders.
+
+Offline project buttons:
+- UJ Compass opens projects/UJ_Compass.html.
+- Excel dashboard opens projects/Project_Selection_Dashboard.xlsx.
+- Jira evidence opens assets/jira-board.png.
+
+LinkedIn and email links require an internet connection or email app.
