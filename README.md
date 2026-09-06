@@ -51,7 +51,7 @@ projects/
   UJ_Compass.html
   Project_Selection_Dashboard.xlsx
 docs/
-  cv/                         # retained supporting document; not linked as a final CV yet
+  cv/                         # recruiter-ready CV
   supporting-material/        # retained presentation and offline notes
 ```
 
