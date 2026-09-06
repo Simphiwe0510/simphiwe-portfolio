@@ -1,0 +1,12 @@
+SIMPHIWE SETHOLE — PORTFOLIO NOTES
+
+The recruiter-facing portfolio is index.html at the repository root.
+
+For an offline preview:
+1. Keep the repository folders together.
+2. Open index.html in Chrome, Edge, Firefox, or another browser.
+3. For the most reliable local preview, run: python -m http.server 8000
+4. Visit http://localhost:8000.
+
+Supporting files are retained under docs/ and projects/. External GitHub,
+LinkedIn, credential and email links require an internet connection.
